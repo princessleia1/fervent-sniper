@@ -2,17 +2,18 @@
 
 **Fervent-Sniper** is a C# Repository for Visual Studio .NET Core Console App examples.
 
-## Code Examples
+## Code Snippets
+### Examples
 
-* Declaring Variables
-* Displaying Variables in Console
-* Using Arithmetic Operators
-* Using the Bool Data Type
-* Using the String Data Type
-* Using the Char Data Type
-* Numeric Conversions
-* Declaring Constants
-* Console Input
+1. Declaring Variables
+2. Displaying Variables in Console
+3. Using Arithmetic Operators
+4. Using the Bool Data Type
+5. Using the String Data Type
+6. Using the Char Data Type
+7. Numeric Conversions
+8. Declaring Constants
+9. Console Input
 
 ### Framework
 
