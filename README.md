@@ -18,3 +18,7 @@
 ### Framework
 
 * Requires [Microsoft .NET Core App 2.1.0 SDK](https://dotnet.microsoft.com/download/dotnet-core/2.1) Installed. 
+
+<p align="middle">
+  <img width="80" height="80" src=icon.png>
+</p>
