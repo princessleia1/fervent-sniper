@@ -2,7 +2,7 @@
 
 **Fervent-Sniper** is a C# Repository for Visual Studio .NET Core Console App examples.
 
-## Code Snippets
+## Concepts
 ### Examples
 
 1. Declaring Variables
