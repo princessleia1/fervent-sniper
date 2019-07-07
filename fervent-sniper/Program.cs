@@ -10,6 +10,16 @@ namespace fervent_sniper
     // Data types
     class Program
     {
+        // Enumeration
+        enum DayOfWeek
+        {
+            SUNDAY,
+            MONDAY,
+            TUESDAY,
+            WEDNESDAY,
+            FRIDAY,
+            SATURDAY,
+        }
         // Main method entry point into app
         static void Main(string[] args)
         {
@@ -83,7 +93,7 @@ namespace fervent_sniper
             int c = b++;
 
             Console.WriteLine("The value of b is {0} and the value of c is {1}", b, c);
-            // Expected output:
+            // Returns:
             // The value of b is 5 and the value of c is 4
 
             // Post Subtract
@@ -91,11 +101,9 @@ namespace fervent_sniper
             int e = --d;
 
             Console.WriteLine("The value of d is {0} and the value of e is {1}", d, e);
-            // Expected output:
-            // The value of d is 3 and the value of e is 3  
+            // Returns: The value of d is 3 and the value of e is 3  
 
-            // Using bool type
-            // Using comparison operators > >= < <= return true or false value
+            // Using bool type, comparison operators > >= < <= return true or false value
             // Equality == Not equal to !=
             bool myBool2 = 5 > 6;
             Console.WriteLine(myBool2);
@@ -157,14 +165,14 @@ namespace fervent_sniper
             Console.WriteLine("Names equal {0}", namesEqual);
             // Returns False
 
-            // 2. Check for equality, compare strings
+            // 2nd method
             name1 = "Leia";
             name2 = "Princess";
             bool namesEqual2 = string.Equals(name1, name2);
             Console.WriteLine("Names equal {0}", namesEqual2);
             // Returns False
 
-            // 3. Check for equality, comparing strings
+            // 3rd method
             // string.compare returns error so change string to int
             name1 = "Han";
             name2 = "Han";
@@ -172,15 +180,14 @@ namespace fervent_sniper
             Console.WriteLine("Names equal {0}", namesEqual3);
             // Returns 0
 
-            // 4. Check for equality, comparing strings
+            // 4th method
             int namesEqual4 = name1.CompareTo(name2);
             Console.WriteLine("Names equal {0}", namesEqual4);
             // Returns 0
 
             // Length properties, return number of chars
             Console.WriteLine("{0} has {1} characters", name1, name1.Length);
-            // Expected output
-            // Han has 3 characters
+            // Returns: Han has 3 characters
 
             // Substring
             string firstOfName = name1.Substring(0, 1);
@@ -197,6 +204,47 @@ namespace fervent_sniper
             Console.WriteLine("Does the name start with Chi? {0}", startsWith);
             // Returns True
 
+            // Numeric conversions
+            // Implicit
+            int z = 5;
+            double t = z;
+            Console.WriteLine(z);
+
+            // Casting forces double into int - knowing .4 is lost
+            double myDouble2 = 5.4;
+            int myInt7 = (int)myDouble2;
+            Console.WriteLine(myInt7);
+            // Returns 5
+
+            // Declaring constants still named storage location
+            const int myConstInt = 5;
+            // myConstInt = 6; // Throws error
+            Console.WriteLine(myConstInt);
+
+            // Const for pi will never change ms in built
+            Console.WriteLine(Math.PI);
+
+            // Using enums
+            DayOfWeek today = DayOfWeek.FRIDAY;
+            Console.WriteLine(today);
+            int numberOfToday = (int)today;
+            Console.WriteLine(numberOfToday);
+
+            // Reading input
+            Console.WriteLine("What is your name?");
+            string name = Console.ReadLine(); // Waits for input
+
+            Console.WriteLine("What is your last name?");
+            string lastName = Console.ReadLine();
+
+            Console.WriteLine("Hello {0},{1}", name, lastName);
+            // Returns: Hello <name> <lastName>
+
+            // Parsing string to numeric value
+            Console.WriteLine("Enter a number");
+            int number = int.Parse(Console.ReadLine());
+            number += 20;
+            Console.WriteLine("The multiplied number is {0}", number);
         }
-    }
+    }   
 }
