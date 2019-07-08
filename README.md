@@ -10,7 +10,8 @@
 4. Using Bool, String, Char Data Types
 5. Numeric Conversions
 6. Declaring Constants
-7. Statements
+7. If Else Statements
+8. Compound Expressions
 
 ## Framework
 
