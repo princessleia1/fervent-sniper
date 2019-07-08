@@ -18,8 +18,7 @@ namespace CalculatorPlus
             // Reading input
             Console.WriteLine("What is your name?");
             string name = Console.ReadLine(); // Waits for input
-
-          
+   
             Console.WriteLine("Hello {0} this is a simple Calculator.", name);
             // Returns: Hello <name> this is a simple Calculator.
             
