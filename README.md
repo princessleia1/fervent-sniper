@@ -7,12 +7,10 @@
 1. Declaring Variables
 2. Displaying Variables in Console
 3. Using Arithmetic Operators
-4. Using the Bool Data Type
-5. Using the String Data Type
-6. Using the Char Data Type
-7. Numeric Conversions
-8. Declaring Constants
-10. If Statements
+4. Using Bool, String, Char Data Types
+5. Numeric Conversions
+6. Declaring Constants
+7. Statements
 
 ## Framework
 
