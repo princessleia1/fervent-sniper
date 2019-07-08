@@ -1,6 +1,6 @@
 # Fervent-Sniper
 
-**Fervent-Sniper** is a C# Repository for Visual Studio .NET Core Console App examples.
+**Fervent-Sniper** is a C# Repository for Visual Studio .NET Core Console examples.
 
 ## Concepts
 
