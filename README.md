@@ -12,7 +12,7 @@
 6. Using the Char Data Type
 7. Numeric Conversions
 8. Declaring Constants
-9. Console Input
+10. If Statements
 
 ## Framework
 
