@@ -13,6 +13,7 @@
 7. If Else Statements
 8. Compound Expressions
 9. Switch Statements
+10. Conditional Operators
 
 ## Framework
 
