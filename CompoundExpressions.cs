@@ -11,7 +11,6 @@ namespace CompoundExpressions
         static void Main(string[] args)
         {
             // Compound expressions in If Statements
-            // && and operator and the || or operator
             bool x = true;
             bool y = true;
             bool z = x && y;
@@ -23,6 +22,9 @@ namespace CompoundExpressions
             // F && F = F
             // F && T = F
 
+            bool a = true;
+            bool b = true;
+            bool c = x || y;
             // Or is only false when both are false
             // Only 1 condition evaluated to true
             // T || T = T
@@ -30,11 +32,7 @@ namespace CompoundExpressions
             // F || T = T
             // F || F = F
 
-            //bool a = true;
-            //bool b = true;
-            //bool c = x || y;
-
-
+            // && 
             Console.WriteLine("Enter your age:");
             int age = int.Parse(Console.ReadLine());
 
@@ -47,6 +45,7 @@ namespace CompoundExpressions
                 Console.WriteLine("There is a problem.");
             }
 
+            // ||
             Console.WriteLine("Enter your child's age:");
             int age2 = int.Parse(Console.ReadLine());
 
@@ -59,8 +58,8 @@ namespace CompoundExpressions
                 Console.WriteLine("There is a problem.");
             }
 
-            // If you are less then 12 you get a discount
-            // If you are older than 55 and rating of title is G you get a disount
+            // If you are less than or equal 12, discount applied
+            // If you are older than or equal 55 and rating of title is G, discount applied
             // && evalues first
             Console.WriteLine("Enter your age:");
             int age3 = int.Parse(Console.ReadLine());
@@ -70,11 +69,11 @@ namespace CompoundExpressions
 
             if (age3 <= 12 || age3 >= 55 && rating == 'G')
             {
-                Console.WriteLine("You receive a Discount.");
+                Console.WriteLine("Discount is applied.");
             }
             else
             {
-                Console.WriteLine("You do not receive a Discount.");
+                Console.WriteLine("Discount is not applied.");
             }
         }
     }
