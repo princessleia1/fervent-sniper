@@ -15,17 +15,17 @@ namespace RandonNumGuess
             // Generate random number
             Random randomGenerator = new Random();
             int randomNumber = randomGenerator.Next(1, 11); // min, max
-            // Console.WriteLine(randomNumber);
 
             // Ask user to guess the number and store it
             Console.WriteLine("Guess the Random Number:");
             int userGuess = int.Parse(Console.ReadLine());
 
-            // Display the number
+            // Display the guessed number
             Console.WriteLine("User entered: {0}", userGuess);
 
             // Display the random number
             Console.WriteLine("The random number was {0}", randomNumber);
+
             // Indicate to the user whether too low, too high, or correct
             if (userGuess < randomNumber)
             {
