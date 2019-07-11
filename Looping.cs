@@ -55,6 +55,16 @@ namespace Looping
                 Console.WriteLine("Hello");
                 responseAgain = Console.ReadLine();
             } while (responseAgain == "Again");
+
+            // Nested loop
+            for (int j = 0; j < 10; j++)
+            {
+                for (int i = 0; i < 10; i++)
+                {
+                        Console.Write("*");
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
