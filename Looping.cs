@@ -57,11 +57,12 @@ namespace Looping
             } while (responseAgain == "Again");
 
             // Nested loop
-            for (int j = 0; j < 10; j++)
+            int size = 20;
+            for (int j = 0; j < size; j++)
             {
-                for (int i = 0; i < 10; i++)
+                for (int i = 0; i < size; i++)
                 {
-                        Console.Write("*");
+                        Console.Write("{0,3}", "*");
                 }
                 Console.WriteLine();
             }
