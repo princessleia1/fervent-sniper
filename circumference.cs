@@ -5,6 +5,7 @@ namespace Circumference
     class Program
     {
         // Enumerator lists
+        // GetType method
         // IsDefined? method
         // GetName method
         enum Days { Sat, Sun, Mon, Tue, Wed, Thu, Fri };
