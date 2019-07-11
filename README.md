@@ -14,6 +14,7 @@
 8. Compound Expressions
 9. Switch Statements
 10. Conditional Operators
+11. Do While, While, For, Nested Loops.
 
 <p align="middle">
   <img width="80" height="80" src=icon.png>
