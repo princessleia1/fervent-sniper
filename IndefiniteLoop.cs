@@ -6,7 +6,6 @@ namespace Looping
     {
         static void Main(string[] args)
         {
-            // while ( test-expression ) { statements}
             // Infinite loop
             /*  int x = 1;
             *   while (x > 0)
@@ -17,14 +16,14 @@ namespace Looping
 
             // Terminated loop
             int x = 0; // Counter control variable
-            while (x < 11) // Condition 0 1 2 3 4 5 7 8 9 10 11 true until false at 12
+            while (x < 11) // Checks condition 0 1 2 3 4 5 7 8 9 10 11 true until false at 12
             {
                 Console.WriteLine("Terminated loop");
                 x++; // Alter statement
-
             }
 
             // Indefinite loop
+            // while ( test-expression ) { statements}
             int runningTotal = 0;
 
             Console.WriteLine("Enter a Number or -1 to Quit.");
