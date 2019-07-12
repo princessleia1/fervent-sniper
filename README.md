@@ -22,7 +22,8 @@
 * CalculateTimeToMins.cs
 * CalculatorPlus.cs
 * HourlyRatePay.cs
-* RandomGuessedNumbers.cs
+* GuessNumbers.cs
+* GuessNumbersExt.cs
 * ValidPayRate.cs
 * WeeklyFeeForService.cs
 * SumsIntegers.cs
