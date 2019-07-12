@@ -18,13 +18,14 @@
 
 ## Solution Console-based Programs
 
-1. CalculateArea.cs
-2. CalculateTimeToMins.cs
-3. CalculatorPlus.cs
-4. HourlyRatePay.cs
-5. RandomGuessedNumbers.cs
-6. ValidPayRate.cs
-7. WeeklyFeeForService.cs
+* CalculateArea.cs
+* CalculateTimeToMins.cs
+* CalculatorPlus.cs
+* HourlyRatePay.cs
+* RandomGuessedNumbers.cs
+* ValidPayRate.cs
+* WeeklyFeeForService.cs
+* SumsIntegers.cs
 
 <p align="middle">
   <img width="80" height="80" src=icon.png>
