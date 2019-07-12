@@ -4,9 +4,7 @@ namespace CreateArray
 {
     class Program
     {
-        /* Write a console-based application that mber.
-         * Indicate whether the user's guess was too high, too low, or correct.
-         * Use loop for this solution.
+        /* Creating Arrays
          */
         static void Main(string[] args)
         {
