@@ -16,6 +16,16 @@
 10. Conditional Operators
 11. Do While, While, For, Nested Loops.
 
+## Solution Console-based Programs
+
+1. CalculateArea Program
+2. CalculateTimeToMins Program
+3. CalculatorPlus Program
+4. HourlyRatePay Program
+5. RandomGuessedNumbers Program
+6. Valid Pay Rate Program
+7. WeeklyFeeForService Program
+
 <p align="middle">
   <img width="80" height="80" src=icon.png>
 </p>
