@@ -21,9 +21,17 @@ namespace CreateArray
             myArray[1] = 6;
             myArray[2] = 7;
             //myArray[3] = 10;    // Causes exeption as crossing boundary no mem allocated in ram
-            
-            // Output to console 
             Console.WriteLine(myArray[2]);
+
+             // Shorten for efficient code
+            int[] myArray2 = new int[3] { 5, 6, 7 };
+            Console.WriteLine(myArray2[1]);
+
+            int[] myArray3 = new int[] { 5, 6, 7 };
+            Console.WriteLine(myArray3[0]);
+
+            int[] myArray4 = { 5, 6, 7 };
+            Console.WriteLine(myArray4[2]);
         }
     }
 }
