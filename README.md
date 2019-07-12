@@ -16,6 +16,17 @@
 10. Conditional Operators
 11. Do While, While, For, Nested Loops.
 
+## Solution Console-based Programs
+
+* CalculateArea.cs
+* CalculateTimeToMins.cs
+* CalculatorPlus.cs
+* HourlyRatePay.cs
+* RandomGuessedNumbers.cs
+* ValidPayRate.cs
+* WeeklyFeeForService.cs
+* SumsIntegers.cs
+
 <p align="middle">
   <img width="80" height="80" src=icon.png>
 </p>
