@@ -4,10 +4,10 @@ namespace FinalScore
 {
     class Program
     {
-        /* Write a program that allows a teach to enter in an amoutn of students.
+        /* Write a program that allows a teacher to enter in an amount of students.
          * For each student ask the teacher to enter their name and final score for class.
          * When user is done entering data, print the highest grade in the class.
-         * Print the average grade for the classs.
+         * Print the average grade for the classs and their name.
          */
         static void Main(string[] args)
         {
