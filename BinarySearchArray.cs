@@ -8,7 +8,6 @@ namespace BinarySearchArray
          * Binary search is faster
          * Data needs to be sorted; useful functions sort, reverse
          */
-
         static void Main(string[] args)
         {
             int[] myArray = { 10, 15, 20, 30, 35, 40, 45 };
@@ -22,9 +21,9 @@ namespace BinarySearchArray
             else
             {
                 Console.WriteLine("The number DOES EXIST.");
-             }
+            }
 
-            // Sorting function
+            // Sort function
             int[] myArray2 = { 10, 5, 7, 2, 55 };
             Array.Sort(myArray2);
             for (int i = 0; i < myArray2.Length; i++)
