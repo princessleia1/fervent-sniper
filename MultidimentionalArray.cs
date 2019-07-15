@@ -66,7 +66,6 @@ namespace MultidimentionalArray
                 }
                 Console.WriteLine();
             }
-
         }
     }
 }
