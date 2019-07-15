@@ -19,19 +19,19 @@
 
 ## Solution Console-based Programs
 
-* CalculateArea.cs
-* CalculateTimeToMins.cs
-* CalculatorPlus.cs
-* HourlyRatePay.cs
-* FinalStudentGrade.cs
-* GradeCredit.cs
-* [GuessNumbers] (/GuessNumbers.cs)
-* [GuessNumbersExt] (/GuessNumbersExt.cs)
-* [LetterGuessGame] (/LetterGuessGame.cs) 
-* ValidPayRate.cs
-* WeeklyFeeForService.cs
-* SearchStudentGrade.cs
-* SumsIntegers.cs
+* [CalculateArea](/CalculateArea.cs)
+* [CalculateTimeToMins](/CalculateTimeToMins.cs)
+* [CalculatorPlus](/CalculatorPlus.cs)
+* [HourlyRatePay](/HourlyRatePay.cs)
+* [FinalStudentGrade](/FinalStudentGrade.cs)
+* [GradeCredit](/GradeCredit.cs)
+* [GuessNumbers](/GuessNumbers.cs)
+* [GuessNumbersExt](/GuessNumbersExt.cs)
+* [LetterGuessGame](/LetterGuessGame.cs) 
+* [ValidPayRate](/ValidPayRate.cs)
+* [WeeklyFeeForService](/WeeklyFeeForService.cs)
+* [SearchStudentGrade](/SearchStudentGrade.cs)
+* [SumsIntegers](/SumsIntegers.cs)
 
 <p align="middle">
   <img width="80" height="80" src=icon.png>
