@@ -28,6 +28,7 @@
 * GuessNumbersExt.cs
 * ValidPayRate.cs
 * WeeklyFeeForService.cs
+* SearchStudentGrade.cs
 * SumsIntegers.cs
 
 <p align="middle">
