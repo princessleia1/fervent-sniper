@@ -25,9 +25,9 @@
 * HourlyRatePay.cs
 * FinalStudentGrade.cs
 * GradeCredit.cs
-* GuessNumbers.cs
-* GuessNumbersExt.cs
-* LetterGuessGame.cs
+* [GuessNumbers] (/GuessNumbers.cs)
+* [GuessNumbersExt] (/GuessNumbersExt.cs)
+* [LetterGuessGame] (/LetterGuessGame.cs) 
 * ValidPayRate.cs
 * WeeklyFeeForService.cs
 * SearchStudentGrade.cs
