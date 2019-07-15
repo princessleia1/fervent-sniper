@@ -16,6 +16,7 @@
 10. Conditional Operators
 11. Do While, While, For, Nested Loops.
 12. Arrays, Multidimentional Arrays, Array Methods
+13. Creating Methods
 
 ## Solution Console-based Programs
 
