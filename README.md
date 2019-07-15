@@ -23,6 +23,7 @@
 * CalculateTimeToMins.cs
 * CalculatorPlus.cs
 * HourlyRatePay.cs
+* FinalStudentGrade.cs
 * GradeCredit.cs
 * GuessNumbers.cs
 * GuessNumbersExt.cs
