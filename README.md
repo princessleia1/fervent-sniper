@@ -38,7 +38,3 @@
 * [SearchStudentGrade](/SearchStudentGrade.cs)
 * [SumsIntegers](/SumsIntegers.cs)
 * [MultiplyTable](/MultiplyTable.cs)
-
-<p align="middle">
-  <img width="80" height="80" src=icon.png>
-</p>
