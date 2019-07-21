@@ -36,5 +36,6 @@
 * [ValidPayRate](/ValidPayRate.cs)
 * [WeeklyFeeForService](/WeeklyFeeForService.cs)
 * [SearchStudentGrade](/SearchStudentGrade.cs)
+* [SquareCubeInteger](/SquareCubeInteger.cs)
 * [SumsIntegers](/SumsIntegers.cs)
 * [MultiplyTable](/MultiplyTable.cs)
