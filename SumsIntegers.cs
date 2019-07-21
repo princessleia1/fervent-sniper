@@ -13,7 +13,6 @@ namespace SumsIntegers
             {
                 sum += i;
             }
-
             Console.WriteLine("The Sum is {0}.", sum);
         }
     }
