@@ -4,22 +4,20 @@
 
 ## Concepts
 
-1. Declaring Variables
-2. Displaying Variables in Console
-3. Using Arithmetic Operators
-4. Using Data Types
-5. Numeric Conversions
-6. Declaring Constants
-7. If Else Statements
-8. Compound Expressions
-9. Switch Statements
-10. Conditional Operators
-11. Do While, While, For, Nested Loops.
-12. Arrays, Multidimentional Arrays, Array Methods
-13. Creating Methods: Pass by Reference Vs Pass by Value
-14. Ref Keyword, Out Keyword, Params Keyword, Method Overloading, Opt Parameters
-15. Creating a Class: Operator Overloading, Passing Objects to Methods, Arrays of Objects
-16. Static Keyword
+1. Declaring Variables, Displaying Variables
+2. Using Arithmetic Operators
+3. Using Data Types
+4. Numeric Conversions
+5. Declaring Constants
+6. If Else Statements
+7. Compound Expressions
+8. Switch Statements
+9. Conditional Operators
+10. Do While, While, For, Nested Loops.
+11. Arrays, Multidimentional Arrays, Array Methods
+12. Creating Methods, Pass by Reference Vs Pass by Value
+13. Ref Keyword, Out Keyword, Params Keyword, Method Overloading, Opt Parameters
+14. Creating Classes, Operator Overloading, Passing Objects to Methods, Arrays of Objects
 
 ## Solution Console-based Programs
 
