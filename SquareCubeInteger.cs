@@ -9,6 +9,7 @@ namespace SquareCube
          * Cube() method should call Square() method. 
          * Main() method displays results returned from each of the other methods.
          */
+        
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a Number:");
