@@ -2,11 +2,12 @@ using System;
 
 namespace MultidimentionalArray
 {
-    class Program
+    class Program    
+    {
         // Rectangular multidimentional array each row has same amount of columns
         // Jaggered multidimentional array has different amount of rows (arrays of arrays)
         // Every row is a brand new array
-    {
+        
         static void Main(string[] args)
         {
             // Rectangular array
