@@ -5,9 +5,10 @@ namespace SimpleSum
     class Program
     {
         /* Create a method named Sum() that accepts a number of integer parameters and displays their sum.
-         * Write a Maint() method that demonstrates the Sum() method works correctly
+         * Write a Main() method that demonstrates the Sum() method works correctly.
          * When passed one, three or five integers, or an array of ten integers.
          */
+        
         static void Main(string[] args)
         {
             Sum(5);
