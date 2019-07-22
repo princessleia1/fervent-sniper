@@ -9,7 +9,7 @@ namespace SquareObjects
          * The constructor assigns its parameter to the length of the Square's side field, and
          * Calls a private method. It computes the area field. Include read-only properties to set
          * Square objects with sides that in the main method create an array or ten Square objects with
-         * Sides that haave values of 1 through 10. Display the values for each Square.
+         * Sides that have values of 1 through 10. Display the values for each Square.
          */
 
         static void Main(string[] args)
@@ -21,6 +21,7 @@ namespace SquareObjects
                 Console.WriteLine("{0}, {1}", squares[i].Side, squares[i].Area);
             }
         }
+        
         // Expected output:
         // 1, 1
         // 2, 4
