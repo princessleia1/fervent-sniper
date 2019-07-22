@@ -16,7 +16,7 @@
 10. Do While, While, For, Nested Loops.
 11. Arrays, Multidimentional Arrays, Array Methods
 12. Creating Methods, Pass by Reference Vs Pass by Value
-13. Ref Keyword, Out Keyword, Params Keyword, Method Overloading, Opt Parameters
+13. Ref Keyword, Out Keyword, Params Keyword, Static Keyword, Method Overloading, Opt Parameters
 14. Creating Classes, Operator Overloading, Passing Objects to Methods, Arrays of Objects
 
 ## Solution Console-based Programs
