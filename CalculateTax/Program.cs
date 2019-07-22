@@ -25,7 +25,7 @@ namespace TaxPayer
             // Print info
             for (int i = 0; i < payers.Length; i++)
             {
-                Console.WriteLine("Tax Payer # {0}, SSN = (1), Income = {2}, Tax Owed = {3}", i + 1, payers[i].SocialSecNumber, payers[i].YearlyGrossIncome, payers[i].TaxOwed);
+                Console.WriteLine("Tax Payer # {0}, SSN = {1}, Income = {2}, Tax Owed = {3}", i + 1, payers[i].SocialSecNumber, payers[i].YearlyGrossIncome, payers[i].TaxOwed);
             }
 
             // Expected output like:
