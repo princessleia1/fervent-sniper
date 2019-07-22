@@ -10,8 +10,8 @@ namespace IfStatements
     {
         /* Build an age verification program.
          * Ask the user their Age.
-         * If the user's age is greater than or equal to 55, display mesesage.
-         * If the user's age is not equal or greater than 55, display message.
+         * If the user's age is greater than or equal to 55, display an appropriate message.
+         * If the user's age is not equal or greater than 55, display an appropriate message.
          */
 
         static void Main(string[] args)
