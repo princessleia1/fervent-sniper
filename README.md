@@ -26,7 +26,7 @@
 * [CalculatorPlus](/CalculatorPlus.cs)
 * [CalculateTax](/CalculateTax/Program.cs)
 * [HourlyRatePay](/HourlyRatePay.cs)
-* [FinalStudentGrade](/FinalStudentGrade.cs)
+* [FinalStudentGrades](/FinalStudentGrades.cs)
 * [GradeCredit](/GradeCredit.cs)
 * [GuessNumbers](/GuessNumbers.cs)
 * [GuessNumbersExt](/GuessNumbersExt.cs)
