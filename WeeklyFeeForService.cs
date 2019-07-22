@@ -14,7 +14,6 @@ namespace WeeklyFeeForService
       
         static void Main(string[] args)
         {
-
             Console.WriteLine("Enter the length of the lawn:");
             int length = int.Parse(Console.ReadLine());
 
