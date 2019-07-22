@@ -30,55 +30,55 @@ namespace TaxPayer
 
             // Expected output like:
             //Enter Payer #1 SSN:
-            //343
+            //111
             //Enter Payer #1 Yearly Income:
-            //25000
+            //10000
             //Enter Payer #2 SSN:
-            //343
-            //Enter Payer #2 Yearly Income:
-            //30000
-            //Enter Payer #3 SSN:
-            //888
-            //Enter Payer #3 Yearly Income:
-            //40000
-            //Enter Payer #4 SSN:
-            //111
-            //Enter Payer #4 Yearly Income:
-            //10000
-            //Enter Payer #5 SSN:
             //222
-            //Enter Payer #5 Yearly Income:
+            //Enter Payer #2 Yearly Income:
             //20000
-            //Enter Payer #6 SSN:
-            //455
-            //Enter Payer #6 Yearly Income:
-            //45000
-            //Enter Payer #7 SSN:
+            //Enter Payer #3 SSN:
+            //333
+            //Enter Payer #3 Yearly Income:
+            //100000
+            //Enter Payer #4 SSN:
             //444
+            //Enter Payer #4 Yearly Income:
+            //55999
+            //Enter Payer #5 SSN:
+            //234
+            //Enter Payer #5 Yearly Income:
+            //43000
+            //Enter Payer #6 SSN:
+            //098
+            //Enter Payer #6 Yearly Income:
+            //50000
+            //Enter Payer #7 SSN:
+            //987
             //Enter Payer #7 Yearly Income:
-            //666000
+            //39000
             //Enter Payer #8 SSN:
-            //345
+            //000
             //Enter Payer #8 Yearly Income:
-            //90000
-            //Enter Payer #9 SSN:
-            //443
-            //Enter Payer #9 Yearly Income:
             //10000
+            //Enter Payer #9 SSN:
+            //324
+            //Enter Payer #9 Yearly Income:
+            //29999
             //Enter Payer #10 SSN:
-            //111
+            //987
             //Enter Payer #10 Yearly Income:
-            //60000
-            //Tax Payer # 1, SSN = (1), Income = 25000, Tax Owed = 3750
-            //Tax Payer # 2, SSN = (1), Income = 30000, Tax Owed = 8400
-            //Tax Payer # 3, SSN = (1), Income = 40000, Tax Owed = 11200
-            //Tax Payer # 4, SSN = (1), Income = 10000, Tax Owed = 1500
-            //Tax Payer # 5, SSN = (1), Income = 20000, Tax Owed = 3000
-            //Tax Payer # 6, SSN = (1), Income = 45000, Tax Owed = 12600
-            //Tax Payer # 7, SSN = (1), Income = 666000, Tax Owed = 186480
-            //Tax Payer # 8, SSN = (1), Income = 90000, Tax Owed = 25200
-            //Tax Payer # 9, SSN = (1), Income = 10000, Tax Owed = 1500
-            //Tax Payer # 10, SSN = (1), Income = 60000, Tax Owed = 16800
+            //79000
+            //Tax Payer # 1, SSN = 111, Income = 10000, Tax Owed = 1500
+            //Tax Payer # 2, SSN = 222, Income = 20000, Tax Owed = 3000
+            //Tax Payer # 3, SSN = 333, Income = 100000, Tax Owed = 28000
+            //Tax Payer # 4, SSN = 444, Income = 55999, Tax Owed = 15679.72
+            //Tax Payer # 5, SSN = 234, Income = 43000, Tax Owed = 12040
+            //Tax Payer # 6, SSN = 098, Income = 50000, Tax Owed = 14000
+            //Tax Payer # 7, SSN = 987, Income = 39000, Tax Owed = 10920
+            //Tax Payer # 8, SSN = 000, Income = 10000, Tax Owed = 1500
+            //Tax Payer # 9, SSN = 324, Income = 29999, Tax Owed = 4499.85
+            //Tax Payer # 10, SSN = 987, Income = 79000, Tax Owed = 22120
         }
     }
 }
