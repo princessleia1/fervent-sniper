@@ -28,7 +28,7 @@
 * [HourlyRatePay](/HourlyRatePay.cs)
 * [FinalStudentGrades](/FinalStudentGrades.cs)
 * [GradeCredit](/GradeCredit.cs)
-* [GuessNumbers](/GuessNumbers.cs)
+* [GuessNumber](/GuessNumber.cs)
 * [GuessNumbersExt](/GuessNumbersExt.cs)
 * [LetterGuessGame](/LetterGuessGame.cs) 
 * [PostCodeDelivery](/PostCodeDelivery.cs)
