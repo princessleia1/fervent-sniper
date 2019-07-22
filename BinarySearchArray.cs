@@ -8,6 +8,7 @@ namespace BinarySearchArray
          * Binary search is faster
          * Data needs to be sorted; useful functions sort, reverse
          */
+        
         static void Main(string[] args)
         {
             int[] myArray = { 10, 15, 20, 30, 35, 40, 45 };
