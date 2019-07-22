@@ -31,7 +31,7 @@ namespace MultidimentionalArray
             myArray[2, 3] = 8;
 
             // Print the values
-            // Outer loop goes 1 interation
+            // Outer loop goes 1 iteration
             for(int  i = 0; i <3; i++)
             {
                 for(int j = 0; j <4; j++)
