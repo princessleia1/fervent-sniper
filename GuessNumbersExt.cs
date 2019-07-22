@@ -26,7 +26,7 @@ namespace GuessNumbersExt
                 }
                 else if (usersGuess > randomNumber)
                 {
-                    Console.WriteLine("Your guess was too low.");
+                    Console.WriteLine("Your guess was too high.");
                 }
                 else
                 {
