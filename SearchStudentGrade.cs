@@ -5,9 +5,9 @@ namespace SearchStudentGrade
     class Program
     {
         /* Write a console application that asks a user to enter a student's name.
-         * If the student if found indicate that they are found and their associated grade.
+         * If the student is found indicate that they are found and their associated grade.
          * Indicate to the user if the student is not found.
-         * Use a paraelle array.
+         * Use a parallel array.
          */
 
         static void Main(string[] args)
