@@ -40,3 +40,7 @@
 * [SquareObject](/SquareObject/Program.cs)
 * [SumsIntegers](/SumsIntegers.cs)
 * [MultiplyTable](/MultiplyTable.cs)
+
+<p align="middle">
+  <img width="80" height="80" src=logo.png>
+</p>
