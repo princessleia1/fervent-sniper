@@ -4,6 +4,8 @@ using System.Text;
 
 namespace CreateClass
 {
+
+    
     class Student
     {
         // Always specify access modifiers
