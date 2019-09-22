@@ -1,6 +1,6 @@
 # Fervent-Sniper
 
-**Fervent-Sniper** is a C# Repository for Visual Studio .NET Core Console App and Snippets.
+**Fervent-Sniper** is a C# Repository for Visual Studio .NET Core Console App Programs and Snippets.
 
 ## Concepts
 
@@ -42,5 +42,5 @@
 * [MultiplyTable](/MultiplyTable.cs)
 
 <p align="middle">
-  <img width="100" height="100" src=logo.png>
+  <img width="140" height="140" src=logo.png>
 </p>
