@@ -44,7 +44,6 @@
 ## Build
 
 * Build .NET Core examples using .NET Core CLI, installed with [.NET Core SDK](https://www.microsoft.com/net/download).
-* Use Visual Studio Code > Terminal and run the following commands:
 
 ```console
 dotnet new console
