@@ -41,16 +41,6 @@
 * [SumsIntegers](/SumsIntegers.cs)
 * [MultiplyTable](/MultiplyTable.cs)
 
-## Build
-
-Build .NET Core examples using .NET Core CLI, installed with [.NET Core SDK](https://www.microsoft.com/net/download).
-
-```console
-dotnet new console
-dotnet build
-dotnet run
-```
-
 <p align="middle">
   <img width="100" height="100" src=icon.png>
 </p>
