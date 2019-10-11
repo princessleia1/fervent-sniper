@@ -42,5 +42,5 @@
 * [MultiplyTable](/MultiplyTable.cs)
 
 <p align="middle">
-  <img width="100" height="100" src=icon.png>
+  <img width="80" height="80" src=icon.png>
 </p>
