@@ -19,7 +19,7 @@
 13. Ref Keyword, Out Keyword, Params Keyword, Static Keyword, Method Overloading, Opt Parameters
 14. Creating Classes, Operator Overloading, Passing Objects to Methods, Arrays of Objects
 
-## Solution Console-based Programs
+## Solution Apps
 
 * [CalculateArea](/CalculateArea.cs)
 * [CalculateTimeToMins](/CalculateTimeToMins.cs)
